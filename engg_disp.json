@@ -6,7 +6,6 @@
     "https://grafana.gcp.thousandeyes.com:30004/dashboard/db/eyebrow-processing-pipeline?orgId=1",
     "https://grafana.gcp.thousandeyes.com:30004/dashboard/db/device-super-dashboard",
     "https://grafana.gcp.thousandeyes.com:30004/dashboard/db/super-dashboard?orgId=1",
-    "https://grafana.gcp.thousandeyes.com:30004/dashboard/db/kubernetes-overview?orgId=1",
-    "https://thousandeyes.atlassian.net/wiki/spaces/ENGG/pages/697008409/Release+Manager+Schedule+2020"
+    "https://grafana.gcp.thousandeyes.com:30004/dashboard/db/kubernetes-overview?orgId=1"
   ]
 }
